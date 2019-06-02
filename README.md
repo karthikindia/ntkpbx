@@ -7,10 +7,11 @@ Demo Testing
 Dial
 
 US/Canada : 1-234-804-0274 
+<br>
 Singapore : +65 3159 1004 
-Australia : +61 2 8317 1103 
-England : +44-2080-8929-13 
-France : +33 9800-9341-5
+<br>Australia : +61 2 8317 1103 
+<br>England : +44-2080-8929-13 
+<br>France : +33 9800-9341-5
 
 Step 1 : Dial any one of the above numbers
 Step 2 : Press 4 for Phone Radio 
